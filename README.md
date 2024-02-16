@@ -1,6 +1,5 @@
 <header> 
-    <h2 style="padding-bottom:0px; margin-bottom:0px">Javier Hernández Sánchez</h2>
-    <h6 style="padding-top:0px; margin-top:8px">Software Engineer | MSc in Telecommunications Engineering</h6>
+    <h1 style="padding-bottom:6px; margin-bottom:6px">Javier Hernández Sánchez</h1>
     <a href="https://www.youtube.com/channel/UC11GWRix-p7YCg8JBC31YgA" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/YouTube-D10808?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
@@ -19,11 +18,10 @@
     <a href = "" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank">
     </a>
+    <hr style="height: 2px; margin-top:6px">
 </header>
 
----
-
-Currently working as a Software Engineer at Avanade. Passionate about science and technology. My current motivations are new technologies such as 5G, Blockchain and Artificial Intelligence. Open-Source enthusiast.
+Software Engineer and MSc in Telecommunications Engineering. Currently working as a Software Engineer at Avanade. Passionate about science and technology. My current motivations are new technologies such as 5G, Blockchain and Artificial Intelligence. Open-Source enthusiast.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
