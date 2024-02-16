@@ -1,22 +1,22 @@
 <header> 
     <h2 style="padding-bottom:0px; margin-bottom:0px">Javier Hernández Sánchez</h2>
     <h6 style="padding-top:0px; margin-top:8px">Software Engineer | MSc in Telecommunications Engineering</h6>
-    <a href="https://www.youtube.com/channel/UC11GWRix-p7YCg8JBC31YgA" target="_blank">
+    <a href="https://www.youtube.com/channel/UC11GWRix-p7YCg8JBC31YgA" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/YouTube-D10808?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/javierhersan" target="_blank">
+    <a href="https://www.linkedin.com/in/javierhersan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-    <a href="https://www.linkedin.com/in/javierhersan" target="_blank">
+    <a href="https://www.linkedin.com/in/javierhersan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a> 
-    <a href = "mailto:javier.hernandezsanchez@outlook.com">
+    <a href = "mailto:javier.hernandezsanchez@outlook.com" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Gmail-d93e29?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href = "">
+    <a href = "" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank">
     </a>
-    <a href = "">
+    <a href = "" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank">
     </a>
 </header>
