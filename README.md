@@ -7,7 +7,7 @@
     <a href="https://www.linkedin.com/in/javierhersan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
-    <a href="https://www.linkedin.com/in/javierhersan" target="_blank" style="text-decoration: none;">
+    <a href="https://github.com/javierhersan" target="_blank" style="text-decoration: none;">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
     </a> 
     <a href = "mailto:javier.hernandezsanchez@outlook.com" style="text-decoration: none;">
