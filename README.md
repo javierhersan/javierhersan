@@ -1,6 +1,6 @@
 <header> 
 <img src="./assets/github-header-image.png">
-<a href="https://www.youtube.com/channel/UC11GWRix-p7YCg8JBC31YgA" target="_blank"><img src="https://img.shields.io/badge/YouTube-D10808?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@javierhersan" target="_blank"><img src="https://img.shields.io/badge/YouTube-D10808?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/javierhersan" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/javierhersan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href = "mailto:javier.hernandezsanchez@outlook.com"><img src="https://img.shields.io/badge/Gmail-d93e29?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
