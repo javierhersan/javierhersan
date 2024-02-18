@@ -5,7 +5,7 @@
 <a href="https://github.com/javierhersan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a> 
 <a href = "mailto:javier.hernandezsanchez@outlook.com"><img src="https://img.shields.io/badge/Gmail-d93e29?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = ""><img src="https://img.shields.io/badge/Bitcoin-orange?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
-<a href = ""><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a><br></br>
+<a href = ""><img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" target="_blank"></a>
 </header>
 
 Software Engineer and MSc in Telecommunications Engineering. Currently working as a Software Engineer at Avanade. Passionate about science and technology. My current motivations are new technologies such as 5G, Blockchain and Artificial Intelligence. Open-Source enthusiast.
