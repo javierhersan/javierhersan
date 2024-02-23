@@ -10,7 +10,7 @@
 
 ## About me
 
-Software Engineer and MSc in Telecommunications Engineering. Currently working as a Software Engineer at Avanade. Passionate about science and technology. My current motivations are new technologies such as 5G, Blockchain and Artificial Intelligence. Open-Source enthusiast.
+Software Engineer and MSc in Telecommunications Engineering. Passionate about science and technology. My current motivations are new technologies such as Blockchain, Artificial Intelligence and Quantum Computing. Open-Source enthusiast.
 
 Please, check out my [resume](https://github.com/javierhersan/javierhersan/blob/main/assets/CV_Javier_Hernandez_jan2024-eng.pdf) for more details.
 
